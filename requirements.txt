@@ -1,1 +1,1 @@
-'opensearch-py[async]>=2.8.0'
+opensearch-py>=2.8.0
